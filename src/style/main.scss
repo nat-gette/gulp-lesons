@@ -1,0 +1,10 @@
+$main-color: gray;
+body {
+    background: $main-color;
+    justify-content: flex-start;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+}
